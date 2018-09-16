@@ -7,7 +7,7 @@ Cenário : Auto-avaliação bem sucedida
 GIVEN: Não há nenhuma "auto-avaliação" do aluno "lafa" armazenada no sistema
 WHEN: O aluno "lafa" confirma a auto-avaliação completa com metas "MA" "MA" "MA"
 THEN:A auto-avaliação não é armazenada no sistema
-AND Um erro é enviado ao usuário
+AND Um erro é enviado ao usuári
 <<<<<<< HEAD
 AND:...
 =======
